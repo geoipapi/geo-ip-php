@@ -1,0 +1,12 @@
+# GeoIPResponse
+
+
+## Fields
+
+| Field                                                              | Type                                                               | Required                                                           | Description                                                        | Example                                                            |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| `ip`                                                               | *string*                                                           | :heavy_check_mark:                                                 | N/A                                                                | 152.216.4.0                                                        |
+| `type`                                                             | *string*                                                           | :heavy_check_mark:                                                 | N/A                                                                | IPv4                                                               |
+| `country`                                                          | [Components\CountryInfo](../../Models/Components/CountryInfo.md)   | :heavy_check_mark:                                                 | N/A                                                                |                                                                    |
+| `location`                                                         | [Components\LocationInfo](../../Models/Components/LocationInfo.md) | :heavy_check_mark:                                                 | N/A                                                                |                                                                    |
+| `asn`                                                              | [Components\AsnInfo](../../Models/Components/AsnInfo.md)           | :heavy_check_mark:                                                 | N/A                                                                |                                                                    |
