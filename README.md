@@ -1,7 +1,8 @@
 
 
 <div align="center">
-# 🌍 GeoIP PHP SDK
+
+  <h1> 🌍 GeoIP PHP SDK</h1>
   
   <p><strong>Developer-friendly & type-safe PHP SDK for enterprise IP geolocation services</strong></p>
   
