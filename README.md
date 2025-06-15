@@ -1,7 +1,7 @@
-# 🌍 GeoIP PHP SDK
+
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x150/4CAF50/FFFFFF?text=GeoIP+PHP+SDK" alt="GeoIP PHP SDK Logo" />
+# 🌍 GeoIP PHP SDK
   
   <p><strong>Developer-friendly & type-safe PHP SDK for enterprise IP geolocation services</strong></p>
   
