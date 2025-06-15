@@ -77,7 +77,7 @@ Add the following to your `composer.json` file:
         }
     ],
     "require": {
-        "geoip/sdk": "*"
+        "geoipapi/sdk": "*"
     }
 }
 ```
@@ -91,7 +91,7 @@ composer install
 Alternatively, install directly:
 
 ```bash
-composer require geoip/sdk
+composer require geoipapi/sdk
 ```
 
 ## 🔧 Quick Start
